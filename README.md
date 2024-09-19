@@ -12,7 +12,7 @@ print(type(x))#imprime su tipo de variable
 print(type(y))#imprime su tipo de variable
 print(type(z))#imprime su tipo de variable
 print(" ")#imprime una linea en blanco
+![image](https://github.com/user-attachments/assets/ff77f1c4-5d93-4c28-9028-de8ddd773d53)
 
-![image](https://github.com/user-attachments/assets/ae92f3fa-b5bd-4887-a043-d4197fe7cb1a)
 ![image](https://github.com/user-attachments/assets/7490584c-03fa-4f84-a25c-073a4b957ba5)
 
